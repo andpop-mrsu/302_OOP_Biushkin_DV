@@ -9,10 +9,10 @@ class ComposerStaticInit89cf897a6037a871f5b81bea51daea62
     public static $files = array (
         '6124b4c8570aa390c21fafd04a26c69f' => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
         'ec07570ca5a812141189b1fa81503674' => __DIR__ . '/..' . '/phpunit/phpunit/src/Framework/Assert/Functions.php',
-        'df88c9cd7c6fc2a75d1f67a24bb36dc3' => __DIR__ . '/../..' . '/src/ManufacturerFilter.php',
-        'f2b03df73b7b99079a37ca932f80c34e' => __DIR__ . '/../..' . '/src/MaxPriceFilter.php',
-        'd0ca5dff296352847306ec35d30eece1' => __DIR__ . '/../..' . '/src/Product.php',
-        '38733f46ae16b4d5ef345f613297c173' => __DIR__ . '/../..' . '/src/ProductCollection.php',
+        'ae1524cb9ef1d82bc604f2ac202f4991' => __DIR__ . '/../..' . '/src/ManufacturerFilter.php',
+        'e803ca2d71946a160b56f07748b51104' => __DIR__ . '/../..' . '/src/MaxPriceFilter.php',
+        '0791315499b26f9278da04755fde1e73' => __DIR__ . '/../..' . '/src/Product.php',
+        '58f2a583677942ec7449c3a4813bd725' => __DIR__ . '/../..' . '/src/ProductCollection.php',
     );
 
     public static $prefixLengthsPsr4 = array (
